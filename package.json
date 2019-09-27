@@ -13,7 +13,9 @@
   },
   "author": "Stack Education",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "i": "^0.3.6"
+  },
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.3.0",
